@@ -17,7 +17,7 @@ This Flutter app allows users to create freehand drawings with various features 
   - Include screenshots or GIFs of your app in action here.
   - ![](../../Desktop/Screenshot 2024-07-16 at 12.02.22.png)![](../../Desktop/Screenshot 2024-07-16 at 12.02.17.png)![](../../Desktop/Screenshot 2024-07-16 at 12.02.03.png)![](../../Desktop/Screenshot 2024-07-16 at 12.01.53.png)![](../../Desktop/Screenshot 2024-07-16 at 12.01.32.png)![](../../Desktop/Screenshot 2024-07-16 at 12.01.18.png)![](../../Desktop/Screenshot 2024-07-16 at 12.01.15.png)![](../../Desktop/Screenshot 2024-07-16 at 12.01.11.png)![](../../Desktop/Screenshot 2024-07-16 at 12.01.08.png)![](../../Desktop/Screenshot 2024-07-16 at 12.01.03.png)
 ![](../../Desktop/Screenshot 2024-07-16 at 16.21.45.png)
-  - ![](../../Desktop/Screenshot 2024-07-16 at 16.21.48.png)
+  - ![](../../Desktop/Screenshot 2024-07-16 at 16.21.48. png)
 ## Setup Instructions
 - To run this Flutter app on your local machine or device, follow these steps:
 
